@@ -1,16 +1,73 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# 📝 iTask – Todo List Application (React)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+iTask is a responsive and user-friendly **Todo List web application** built using **React.js**, designed to efficiently manage daily tasks with real-time updates and an intuitive interface. This project demonstrates strong understanding of **component-based architecture, state management, and modern frontend development practices**.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Key Features
 
-## Expanding the ESLint configuration
+* Implemented **CRUD operations** (Create, Read, Update, Delete) for task management
+* Task completion tracking with dynamic UI updates
+* Conditional rendering to filter completed and pending tasks
+* Data persistence using local storage *(if implemented)*
+* Clean and responsive user interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+* **React.js** – Component-based UI development
+* **JavaScript (ES6+)** – Application logic and state handling
+* **CSS / Tailwind CSS** – Styling and responsiveness
+
+---
+
+## ⚙️ Core Concepts Applied
+
+* React Hooks (**useState**, optional **useEffect**)
+* Event handling and form handling
+* State-driven UI updates
+* Component reusability and modular design
+* Client-side data persistence
+
+---
+
+## 📂 Setup Instructions
+
+```bash
+git clone https://github.com/shashank1935/Todo-List-App.git
+cd Todo-List-App
+npm install
+npm run dev
+```
+
+---
+
+## 🌐 Run Locally
+
+Open your browser and go to:
+
+```
+http://localhost:5176
+```
+
+---
+
+## 💡 Highlights (For Resume)
+
+* Built a fully functional **Single Page Application (SPA)** using React
+* Implemented interactive UI for efficient task management
+* Applied modern frontend development practices and clean code structure
+* Demonstrated practical use of React Hooks and state management
+
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
